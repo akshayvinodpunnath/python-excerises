@@ -10,3 +10,8 @@ Twinkle, twinkle, little star,
 		Like a diamond in the sky. 
 Twinkle, twinkle, little star, 
 	How I wonder what you are
+
+## 02 - Print python version - [02-print-python-version.py](./02-print-python-version.py)
+
+Write a Python program to get the Python version you are using
+
