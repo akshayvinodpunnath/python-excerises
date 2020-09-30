@@ -25,3 +25,7 @@ Current date and time :
 ## 04 - Print Radius of Circle - [04-compute-circle-radius.py](./04-compute-circle-radius.py)
 
 Write a Python program which accepts the radius of a circle from the user and compute the area.
+
+## 05 - Print name in reverse - [05-print-name-reverse.py](./05-print-name-reverse.py)
+
+Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them
