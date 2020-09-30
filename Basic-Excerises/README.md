@@ -21,3 +21,7 @@ Write a Python program to display the current date and time.
 Sample Output :
 Current date and time :
 2014-07-05 14:34:14
+
+## 04 - Print Radius of Circle - [04-compute-circle-radius.py](./04-compute-circle-radius.py)
+
+Write a Python program which accepts the radius of a circle from the user and compute the area.
