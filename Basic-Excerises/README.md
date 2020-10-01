@@ -34,3 +34,7 @@ Write a Python program which accepts the user's first and last name and print th
 
 Write a Python program to accept a filename from the user and print its extension
 
+## 07 - Print first and last element of list - [07-print-first-last-elements-list.py](./07-print-first-last-elements-list.py)
+
+Write a Python program to display the first and last elements of a list
+
