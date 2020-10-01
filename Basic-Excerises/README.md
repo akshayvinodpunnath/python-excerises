@@ -29,3 +29,8 @@ Write a Python program which accepts the radius of a circle from the user and co
 ## 05 - Print name in reverse - [05-print-name-reverse.py](./05-print-name-reverse.py)
 
 Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them
+
+## 06 - Print file extension - [06-print-file-extension.py](./06-print-file-extension.py)
+
+Write a Python program to accept a filename from the user and print its extension
+
