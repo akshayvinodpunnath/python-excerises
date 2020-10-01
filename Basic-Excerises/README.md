@@ -38,3 +38,10 @@ Write a Python program to accept a filename from the user and print its extensio
 
 Write a Python program to display the first and last elements of a list
 
+## 08 - Compute equation n + nn + nnn for an integer n - [08-compute-equation-n+nn+nnn.py](./08-compute-equation-n+nn+nnn.py)
+
+Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+
+Sample value of n is 5
+Expected Result : 615 (5 + 55 + 555)
+
